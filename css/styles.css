@@ -45,6 +45,7 @@ a{
   color: #11999E;
   font-family: 'Noto Sans KR', sans-serif;
   text-decoration: none;
+  margin: 10px 20px;
 }
 a:hover{
   color: #EAF6F6;
